@@ -1,5 +1,5 @@
 - 👋 Hi, I’m DEV-NHATHN at @RIKKEISOFT. Nice to meet you Guys!!!
 - 👀 I’m interested in Mobile, Web App.
-- 🌱 I’m currently learning .Net Core
+- 🌱 I’m currently learning .Net Core, Java Spring
 - 💞️ I’m looking to collaborate on IOS Development
 - 📫 How to reach me on Facebook ::: link
